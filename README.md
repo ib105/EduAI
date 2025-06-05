@@ -6,4 +6,4 @@
 4) Download the comprehensive PDF report
 
 Important Note:
--> You'll have to run all the cells of the notebook to use the application as it's not a permanent host
+You'll have to run all the cells of the notebook to use the application as it's not a permanent host
