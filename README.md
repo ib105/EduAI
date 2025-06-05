@@ -1,6 +1,5 @@
 # EduAI
 
-# Student Performance Analysis System
 
 A Python-based application that analyzes student test data, generates insightful visualizations, and produces AI-powered feedback reports—all wrapped in a professional PDF export.
 
